@@ -31,7 +31,7 @@ module.exports = {
     },
   ],
   siteMetadata: {
-    title: "Web warriors",
+    title: "Sachin Patwal",
     description: "web dev portfolio",
     copyright: "This website is copyright 2021  web warrior",
     contact: "sachin@webmobsoft.com",
