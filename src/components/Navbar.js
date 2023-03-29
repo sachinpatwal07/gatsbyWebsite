@@ -17,7 +17,7 @@ export default function Navbar() {
 
   return (
     <nav>
-      <h1> web warrior </h1>
+      <h1> Sachin Patwal </h1>
       <div className="links">
         <Link to="/">Home</Link>
         <Link to="/about">about</Link>
